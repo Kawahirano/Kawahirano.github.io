@@ -29,31 +29,6 @@
     
     
     <entry>
-      <title>测试</title>
-      <link href="/posts/9daba997.html"/>
-      <url>/posts/9daba997.html</url>
-      
-        <content type="html"><![CDATA[<h1>测试</h1><p>看看这么样</p><h1>这是代码块</h1><figure class="highlight dust"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="template-variable">&#123;</span></span><br><span class="line"><span class="template-variable">  hello</span></span><br><span class="line"><span class="template-variable">&#125;</span></span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      <categories>
-          
-          <category> Java基础 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 演示 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>算法</title>
       <link href="/posts/b7e144d1.html"/>
       <url>/posts/b7e144d1.html</url>
@@ -71,6 +46,31 @@
         <tags>
             
             <tag> 不演示了 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试</title>
+      <link href="/posts/9daba997.html"/>
+      <url>/posts/9daba997.html</url>
+      
+        <content type="html"><![CDATA[<h1>测试</h1><p>看看这么样</p><h1>这是代码块</h1><figure class="highlight dust"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="template-variable">&#123;</span></span><br><span class="line"><span class="template-variable">  hello</span></span><br><span class="line"><span class="template-variable">&#125;</span></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java基础 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 演示 </tag>
             
         </tags>
       
@@ -140,7 +140,7 @@
       
       <categories>
           
-          <category> 演示 </category>
+          <category> Java基础 </category>
           
       </categories>
       
@@ -159,7 +159,7 @@
       
       <categories>
           
-          <category> Java基础 </category>
+          <category> 演示 </category>
           
       </categories>
       

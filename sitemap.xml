@@ -83,15 +83,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/social/fcircle/index.html</loc>
-    
-    <lastmod>2023-10-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://localhost:4000/social/link/index.html</loc>
     
     <lastmod>2023-10-30</lastmod>
@@ -101,7 +92,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/personal/love/index.html</loc>
+    <loc>http://localhost:4000/social/fcircle/index.html</loc>
     
     <lastmod>2023-10-30</lastmod>
     
@@ -119,6 +110,15 @@
   </url>
   
   <url>
+    <loc>http://localhost:4000/personal/love/index.html</loc>
+    
+    <lastmod>2023-10-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:4000/life/music/index.html</loc>
     
     <lastmod>2023-10-30</lastmod>
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/life/movies/index.html</loc>
+    <loc>http://localhost:4000/life/games/index.html</loc>
     
     <lastmod>2023-10-30</lastmod>
     
@@ -137,7 +137,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/life/games/index.html</loc>
+    <loc>http://localhost:4000/life/movies/index.html</loc>
     
     <lastmod>2023-10-30</lastmod>
     
@@ -255,14 +255,14 @@
 
   
   <url>
-    <loc>http://localhost:4000/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <loc>http://localhost:4000/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
     <lastmod>2023-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://localhost:4000/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <loc>http://localhost:4000/categories/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2023-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -276,7 +276,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/categories/%E7%AE%97%E6%B3%95/</loc>
+    <loc>http://localhost:4000/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2023-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
