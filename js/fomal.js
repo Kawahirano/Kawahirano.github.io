@@ -3175,9 +3175,9 @@ if (localStorage.getItem("blogbg") != undefined) {
 } else {
   document.getElementById("defineBg").innerText = `:root{
     --default-bg: url(/assets/background/background.jpg); 
-    --darkmode-bg:url(/assets/background/phone_bg.jpg);
+    --darkmode-bg:url(/assets/background/background.jpg);
     --mobileday-bg: url(/assets/background/phone_bg.jpg);
-    --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
+    --mobilenight-bg: url(/assets/background/phone_bg.jpg);
   }`;
 }
 // 切换背景主函数
