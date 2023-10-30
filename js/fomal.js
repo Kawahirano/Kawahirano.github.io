@@ -3169,14 +3169,14 @@ let btstu = "url(http://api.btstu.cn/sjbz/?lx=suiji)";
 let unsplash = "url(https://source.unsplash.com/random/1920x1080/)";
 
 
-// 更换背景(自己的代码)
+// 更换背景(自己的代码) #网站背景图片 https://tuchuang.voooe.cn/images/2023/10/29/background.png  /assets/background/background
 if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://tuchuang.voooe.cn/images/2023/10/29/background.png);
-    --darkmode-bg:url(https://lskypro.acozycotage.net/Fomalhaut/img/yuanshen1.webp);
-    --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
+    --default-bg: url(/assets/background/background.jpg); 
+    --darkmode-bg:url(/assets/background/phone_bg.jpg);
+    --mobileday-bg: url(/assets/background/phone_bg.jpg);
     --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
   }`;
 }
