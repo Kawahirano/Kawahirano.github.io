@@ -38,6 +38,27 @@
   </entry>
   
   <entry>
+    <title>测试</title>
+    <link href="https://kawahirano.github.io/posts/9daba997.html"/>
+    <id>https://kawahirano.github.io/posts/9daba997.html</id>
+    <published>2023-10-30T07:59:06.000Z</published>
+    <updated>2023-10-30T10:51:41.210Z</updated>
+    
+    <content type="html"><![CDATA[<h1>测试</h1><p>看看这么样</p><h1>这是代码块</h1><figure class="highlight dust"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="template-variable">&#123;</span></span><br><span class="line"><span class="template-variable">  hello</span></span><br><span class="line"><span class="template-variable">&#125;</span></span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">看一下效果怎么样</summary>
+    
+    
+    
+    <category term="演示" scheme="https://kawahirano.github.io/categories/%E6%BC%94%E7%A4%BA/"/>
+    
+    
+    <category term="教程" scheme="https://kawahirano.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>算法</title>
     <link href="https://kawahirano.github.io/posts/b7e144d1.html"/>
     <id>https://kawahirano.github.io/posts/b7e144d1.html</id>
@@ -80,27 +101,6 @@
   </entry>
   
   <entry>
-    <title>测试</title>
-    <link href="https://kawahirano.github.io/posts/9daba997.html"/>
-    <id>https://kawahirano.github.io/posts/9daba997.html</id>
-    <published>2023-10-30T07:59:06.000Z</published>
-    <updated>2023-10-30T10:51:41.210Z</updated>
-    
-    <content type="html"><![CDATA[<h1>测试</h1><p>看看这么样</p><h1>这是代码块</h1><figure class="highlight dust"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="template-variable">&#123;</span></span><br><span class="line"><span class="template-variable">  hello</span></span><br><span class="line"><span class="template-variable">&#125;</span></span><br></pre></td></tr></table></figure>]]></content>
-    
-    
-    <summary type="html">看一下效果怎么样</summary>
-    
-    
-    
-    <category term="演示" scheme="https://kawahirano.github.io/categories/%E6%BC%94%E7%A4%BA/"/>
-    
-    
-    <category term="教程" scheme="https://kawahirano.github.io/tags/%E6%95%99%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
     <link href="https://kawahirano.github.io/posts/2013454d.html"/>
     <id>https://kawahirano.github.io/posts/2013454d.html</id>
@@ -137,7 +137,7 @@
     
     
     
-    <category term="Java基础" scheme="https://kawahirano.github.io/categories/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="演示" scheme="https://kawahirano.github.io/categories/%E6%BC%94%E7%A4%BA/"/>
     
     
   </entry>
@@ -156,7 +156,7 @@
     
     
     
-    <category term="演示" scheme="https://kawahirano.github.io/categories/%E6%BC%94%E7%A4%BA/"/>
+    <category term="Java基础" scheme="https://kawahirano.github.io/categories/Java%E5%9F%BA%E7%A1%80/"/>
     
     
   </entry>
